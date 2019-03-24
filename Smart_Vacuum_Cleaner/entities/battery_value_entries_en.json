@@ -1,0 +1,24 @@
+[
+  {
+    "value": "battery is emtry",
+    "synonyms": [
+      "battery is emtry",
+      "it\u0027s empty",
+      "battery needs changing"
+    ]
+  },
+  {
+    "value": "battery is half full",
+    "synonyms": [
+      "battery is half full",
+      "half remained"
+    ]
+  },
+  {
+    "value": "battery is full",
+    "synonyms": [
+      "battery is full",
+      "it\u0027s full"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "269c037c-032b-4670-baa1-6c66d121023d",
+  "name": "yinbo.power_on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "poweron",
+      "affectedContexts": [
+        {
+          "name": "poweron",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "good morning! what can i do for you?",
+            "good evening! what can i do for you?",
+            "good afternoon! what can i do for you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

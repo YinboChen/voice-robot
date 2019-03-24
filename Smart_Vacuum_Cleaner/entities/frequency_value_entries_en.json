@@ -1,0 +1,72 @@
+[
+  {
+    "value": "one time a day",
+    "synonyms": [
+      "one time a day",
+      "one time per day",
+      "one time every day"
+    ]
+  },
+  {
+    "value": "two times a day",
+    "synonyms": [
+      "two times a day",
+      "two times per day",
+      "two times every day"
+    ]
+  },
+  {
+    "value": "three time a day",
+    "synonyms": [
+      "three time a day",
+      "three time per day",
+      "tree times every day"
+    ]
+  },
+  {
+    "value": "four times a day",
+    "synonyms": [
+      "four times a day",
+      "four times per day",
+      "four times every day"
+    ]
+  },
+  {
+    "value": "five times a day",
+    "synonyms": [
+      "five times a day",
+      "five times per day",
+      "five times every day"
+    ]
+  },
+  {
+    "value": "two times a week",
+    "synonyms": [
+      "two times a week"
+    ]
+  },
+  {
+    "value": "three times a week",
+    "synonyms": [
+      "three times a week"
+    ]
+  },
+  {
+    "value": "four times a week",
+    "synonyms": [
+      "four times a week"
+    ]
+  },
+  {
+    "value": "five times a week",
+    "synonyms": [
+      "five times a week"
+    ]
+  },
+  {
+    "value": "six times a week",
+    "synonyms": [
+      "six times a week"
+    ]
+  }
+]

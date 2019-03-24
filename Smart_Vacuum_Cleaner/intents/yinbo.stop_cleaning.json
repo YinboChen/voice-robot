@@ -1,0 +1,32 @@
+{
+  "id": "536f9f65-2160-4984-a7b6-b9380c198003",
+  "name": "yinbo.stop_cleaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stopclean",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "all right! I am stopping.",
+            "okay! cleaning is stopped",
+            "as you wish! i am stopping."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

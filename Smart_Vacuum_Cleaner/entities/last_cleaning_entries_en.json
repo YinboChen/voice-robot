@@ -1,0 +1,22 @@
+[
+  {
+    "value": "last cleaning",
+    "synonyms": [
+      "last cleaning"
+    ]
+  },
+  {
+    "value": "latest clean",
+    "synonyms": [
+      "latest clean",
+      "lastest cleaning"
+    ]
+  },
+  {
+    "value": "last time",
+    "synonyms": [
+      "last time",
+      "before"
+    ]
+  }
+]

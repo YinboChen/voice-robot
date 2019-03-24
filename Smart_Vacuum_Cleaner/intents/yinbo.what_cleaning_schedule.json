@@ -1,0 +1,35 @@
+{
+  "id": "da24b280-f80c-48e3-9d30-b612b11e230d",
+  "name": "yinbo.what_cleaning_schedule",
+  "auto": true,
+  "contexts": [
+    "cleaningschedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningschedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "the cleaning schedule is at #cleaningschedule.date-time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

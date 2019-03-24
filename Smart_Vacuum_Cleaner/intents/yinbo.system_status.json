@@ -1,0 +1,73 @@
+{
+  "id": "b75fce87-c7a6-4576-8564-05024d7bd54b",
+  "name": "yinbo.system_status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningschedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cc0c8402-b25b-4527-973e-2121ae039feb",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "the battery is full, the dust bag is empty and no last cleaning record."
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "3dfc1f40-5d00-4628-8174-6f15311a82a5",
+          "required": false,
+          "dataType": "@frequency_value",
+          "name": "frequency",
+          "value": "$frequency_value",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please setting clean schedule and cleaning frequency at first."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "756d2cff-820b-41ee-a8af-396678fba26a",
+          "required": false,
+          "dataType": "@system",
+          "name": "system",
+          "value": "$system",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "the battery is full, the dust bag is empty",
+            "the battery is full, the dust bag is empty"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

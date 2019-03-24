@@ -1,0 +1,27 @@
+{
+  "id": "d43ca756-e9e9-4108-8434-65e808376fff",
+  "name": "yinbo.say_hi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi! I am Becca a vacuum robot. Nice to meet you! If you need help, you can say help and voice commands for help."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

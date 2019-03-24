@@ -1,0 +1,24 @@
+[
+  {
+    "id": "36b87d03-4457-402b-bb97-fe4af326c5be",
+    "data": [
+      {
+        "text": "set cleaning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c242e12-fb1e-4f21-a2c5-69d534ca9f61",
+    "data": [
+      {
+        "text": "cleaning setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "id": "71c5082e-82d0-4d61-848f-e413bddd090b",
+  "name": "yinbo.setting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningfrequency",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "cleaningschedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be8a0415-19f8-415e-a1d2-96e908776fd2",
+          "required": false,
+          "dataType": "@setting",
+          "name": "setting",
+          "value": "$setting",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please set cleaning schedule and cleaning frequency at first."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e70241a9-a26b-4bd9-84db-a63bea0c6a3f",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please set cleaning schedule"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "54b4c952-7afd-472c-933f-d685d2a391ca",
+          "required": false,
+          "dataType": "@frequency_value",
+          "name": "frequency",
+          "value": "$frequency_value",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please set cleaning frequency"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "please set cleaning schedule and cleaning frequency!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

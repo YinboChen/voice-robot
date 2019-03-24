@@ -1,0 +1,35 @@
+[
+  {
+    "id": "54a1d4c4-6b55-4926-aaa2-894e185993ea",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe82bc97-9cc6-4585-b4ee-e5f9292920ae",
+    "data": [
+      {
+        "text": "voice commands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d49bac1a-3f5c-4437-8001-3985b35aec43",
+    "data": [
+      {
+        "text": "need some help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

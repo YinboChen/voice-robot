@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a5e2ff81-ecf5-45d3-b98d-759ca4069faf",
+    "data": [
+      {
+        "text": "battery",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a206de2e-d970-42cf-9321-89f1008d36e8",
+    "data": [
+      {
+        "text": "battery status",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d45b06ee-e4a6-401d-a4d1-b1d7dd71cca3",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "battery status",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

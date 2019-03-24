@@ -1,0 +1,45 @@
+{
+  "id": "35428dda-6db6-49e4-8591-9c4ddd8040cc",
+  "name": "yinbo.cleaning_frequency _status",
+  "auto": true,
+  "contexts": [
+    "cleaningfrequency"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "cleaningfrequency",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1d8f7b9d-74b2-462a-b18e-7813e412d2d8",
+          "required": false,
+          "dataType": "@frequency_value",
+          "name": "frequency",
+          "value": "$frequency_value",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "the cleaning frequency is #cleaningfrequency.frequency_value"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

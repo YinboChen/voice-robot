@@ -1,0 +1,59 @@
+[
+  {
+    "id": "b32348d5-a691-42ef-802c-50acc8f401d9",
+    "data": [
+      {
+        "text": "system",
+        "alias": "system",
+        "meta": "@system",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36c6a319-f0fb-4e74-a148-0d063be21ba8",
+    "data": [
+      {
+        "text": "system setting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e8b03b8-6936-4944-bb6e-b818d665debd",
+    "data": [
+      {
+        "text": "what is the system status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d83fa1a-9d18-4008-bc80-77aaba2d4a99",
+    "data": [
+      {
+        "text": "checking system status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a77c24ce-b4d5-42e2-b19e-44d3ace503de",
+    "data": [
+      {
+        "text": "system status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

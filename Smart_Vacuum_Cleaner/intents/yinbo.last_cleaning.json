@@ -1,0 +1,44 @@
+{
+  "id": "703414b5-da03-4b6f-add3-6634df9e394f",
+  "name": "yinbo.last_cleaning",
+  "auto": true,
+  "contexts": [
+    "cleaningschedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningschedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be591302-045c-4b42-b187-9f1e1306536c",
+          "required": false,
+          "dataType": "@last_cleaning",
+          "name": "last_cleaning",
+          "value": "$last_cleaning",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "the last cleaning is on #cleaningschedule.date-time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

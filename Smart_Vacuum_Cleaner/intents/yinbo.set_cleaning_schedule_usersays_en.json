@@ -1,0 +1,69 @@
+[
+  {
+    "id": "2e6f14a0-3f36-4d52-aacb-9970d8ba1eb9",
+    "data": [
+      {
+        "text": "at 9 on Wednesday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dde44264-a8ad-4ed2-a842-5bd92339b51d",
+    "data": [
+      {
+        "text": "clean schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a54e1c0a-07cf-4ef3-8482-5af2f8d47d00",
+    "data": [
+      {
+        "text": "setting clean schedule ",
+        "userDefined": false
+      },
+      {
+        "text": "at nine on wednesday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6281bb12-9330-4701-a3d7-2bdd1565ae35",
+    "data": [
+      {
+        "text": "cleaning begins",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at nine in the morning",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "value": "cleaning begins",
+    "synonyms": [
+      "begins",
+      "cleaning start"
+    ]
+  },
+  {
+    "value": "cleaning stops",
+    "synonyms": [
+      "cleaning stops",
+      "cleaning ends"
+    ]
+  }
+]

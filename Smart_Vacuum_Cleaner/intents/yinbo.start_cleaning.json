@@ -1,0 +1,37 @@
+{
+  "id": "dff63a19-4951-4294-a9be-b9ce3584dc8d",
+  "name": "yinbo.start_cleaning",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "startclean",
+      "affectedContexts": [
+        {
+          "name": "startclean",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "oh! what a busy day! ready to work!",
+            "cleaning is started! ready to work!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0e8bbbd8-adff-45dd-b548-84f91d5aebe8",
+  "name": "yinbo.battery_status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "batterystatus",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "the battery is empty",
+            "the battery is half full",
+            "the battery is full",
+            "the battery needs changing",
+            "it \u0027s  empty",
+            "it\u0027s full",
+            "it\u0027s half full",
+            "it\u0027s half remaining"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

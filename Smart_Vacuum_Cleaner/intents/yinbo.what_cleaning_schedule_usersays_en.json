@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cbbfaed3-153e-447c-a9bb-518bdce1333a",
+    "data": [
+      {
+        "text": "when is the cleaning schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2d3df23-9443-478d-9bd9-7a57330a7d75",
+    "data": [
+      {
+        "text": "what is the cleaning schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

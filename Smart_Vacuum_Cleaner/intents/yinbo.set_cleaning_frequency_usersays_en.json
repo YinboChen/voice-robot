@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b49df709-5937-4c36-ad4e-ca9e23661f87",
+    "data": [
+      {
+        "text": "frequency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b7b7e87-e41b-4063-9bfa-93bb865473d6",
+    "data": [
+      {
+        "text": "cleaning frequency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f515353f-dadf-477d-baf8-9d6ad39184bc",
+    "data": [
+      {
+        "text": "2 times a day",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c010d9ea-667c-4cf2-b7f3-f540243eae07",
+    "data": [
+      {
+        "text": "two times a day",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "277a367d-417b-46eb-97ee-209b769f0a3e",
+    "data": [
+      {
+        "text": "one time a week",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e127088-f361-4e9f-9f81-b2b209b3ed2f",
+    "data": [
+      {
+        "text": "one time per day",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dce38b3a-215e-4f05-b9f4-8fb390ef4fd6",
+    "data": [
+      {
+        "text": "one time a day",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5f2b2d7-c237-456e-bbb6-0e5ef08d87bd",
+    "data": [
+      {
+        "text": "set cleaning frequency to ",
+        "userDefined": false
+      },
+      {
+        "text": "one time a day",
+        "alias": "frequency_value",
+        "meta": "@frequency_value",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

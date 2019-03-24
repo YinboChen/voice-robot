@@ -1,0 +1,41 @@
+[
+  {
+    "value": "at nine in the morning",
+    "synonyms": [
+      "at nine",
+      "nine"
+    ]
+  },
+  {
+    "value": "at one in the afternoon",
+    "synonyms": [
+      "at one in the afternoon",
+      "at one"
+    ]
+  },
+  {
+    "value": "at two in the afternoon",
+    "synonyms": [
+      "at two in the afternoon"
+    ]
+  },
+  {
+    "value": "at three in the afternoon",
+    "synonyms": [
+      "at three in the afternoon"
+    ]
+  },
+  {
+    "value": "at four in the afternoon",
+    "synonyms": [
+      "at four in the afternoon",
+      "at four"
+    ]
+  },
+  {
+    "value": "at five in the afternoon",
+    "synonyms": [
+      "at five in the afternoon"
+    ]
+  }
+]

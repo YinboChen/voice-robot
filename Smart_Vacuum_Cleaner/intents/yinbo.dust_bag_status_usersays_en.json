@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bd93c9ef-5de2-4ee3-bd26-80a6d27a68a2",
+    "data": [
+      {
+        "text": "bag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c60a2744-94e0-4a68-9e88-5e8f0a724437",
+    "data": [
+      {
+        "text": "bag status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "462cb7cd-79b2-41a4-a477-7e2a473323d7",
+    "data": [
+      {
+        "text": "dust bag status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0acb046d-c61e-4b38-b2e4-a1b82b7b7933",
+    "data": [
+      {
+        "text": "dust bag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c99f6153-bb45-4182-954b-755236c63a96",
+    "data": [
+      {
+        "text": "what is the dust bag status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

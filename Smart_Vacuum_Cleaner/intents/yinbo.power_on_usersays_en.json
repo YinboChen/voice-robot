@@ -1,0 +1,24 @@
+[
+  {
+    "id": "41887b96-6d85-40bf-8bbd-f9ebcb3dc1a9",
+    "data": [
+      {
+        "text": "turn on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44700801-69dd-4f75-92a1-a4c0edc11b4a",
+    "data": [
+      {
+        "text": "power on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

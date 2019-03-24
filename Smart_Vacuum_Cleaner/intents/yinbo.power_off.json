@@ -1,0 +1,33 @@
+{
+  "id": "214f7983-74e1-4d00-84e7-b45b30e2e68a",
+  "name": "yinbo.power_off",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "poweroff",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "see you soon!",
+            "wish you have a good day!",
+            "have a nice day.",
+            "have a great day."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

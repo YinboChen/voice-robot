@@ -1,0 +1,35 @@
+{
+  "id": "51d857c7-db9d-4bb0-b17b-7039e7b89be6",
+  "name": "yinbo.what_cleaning_frequency",
+  "auto": true,
+  "contexts": [
+    "cleaningfrequency"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningfrequency",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "the cleaning frequency is #cleaningfrequency.frequency_value."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

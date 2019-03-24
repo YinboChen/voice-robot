@@ -1,0 +1,37 @@
+{
+  "id": "5bd446cc-3c76-4a4b-b4ea-5aca42c02d07",
+  "name": "yinbo.dust_bag_status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "the dust bag is empty",
+            "the dust bag is full",
+            "the dust bag is less than half",
+            "the dust bag is more than half",
+            "it\u0027s empty",
+            "it\u0027s full",
+            "it\u0027s half full",
+            "it\u0027s less than half",
+            "it\u0027s more than half"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

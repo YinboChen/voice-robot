@@ -1,0 +1,58 @@
+{
+  "id": "9247e717-f12a-42df-9de8-594d849d03d9",
+  "name": "yinbo.setting_status",
+  "auto": true,
+  "contexts": [
+    "cleaningfrequency",
+    "cleaningschedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaningfrequency",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "cleaningschedule",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "32f48ceb-c59e-401a-8274-63364edf444f",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "time",
+          "value": "$date-time",
+          "isList": true
+        },
+        {
+          "id": "a99390ed-87c7-40d1-9b39-7e31b49e067e",
+          "required": false,
+          "dataType": "@frequency_value",
+          "name": "frequency",
+          "value": "$frequency_value",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cleaning will begin at #cleaningschedule.date-time  and the cleaning frequency is #cleaningfrequency.frequency_value."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

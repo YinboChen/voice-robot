@@ -1,0 +1,30 @@
+{
+  "id": "7cc9325f-8b27-4a5a-b860-5dbba7c1d61b",
+  "name": "yinbo.return_to_dock",
+  "auto": true,
+  "contexts": [
+    "startclean"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "return",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ok! on my way!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

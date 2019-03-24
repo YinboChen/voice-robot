@@ -1,0 +1,49 @@
+[
+  {
+    "id": "cae74ab0-97ed-4678-9163-5f2c2fa3a689",
+    "data": [
+      {
+        "text": "last clean",
+        "alias": "last_cleaning",
+        "meta": "@last_cleaning",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33ce1bcb-0796-4e98-a9d0-03764ce7e266",
+    "data": [
+      {
+        "text": "last cleaning",
+        "alias": "last_cleaning",
+        "meta": "@last_cleaning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7751daa6-f980-4dba-a842-6228dcfa8996",
+    "data": [
+      {
+        "text": "when is the ",
+        "userDefined": false
+      },
+      {
+        "text": "last cleaning",
+        "alias": "last_cleaning",
+        "meta": "@last_cleaning",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
